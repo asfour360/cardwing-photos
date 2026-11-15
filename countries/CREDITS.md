@@ -17,5 +17,16 @@ All are from Wikimedia Commons under CC0 or public domain, with licence checked 
 | NL | Netherlands | Windmills at Zaanse Schans, Zaanstad | DimiTalen | CC0 | https://commons.wikimedia.org/wiki/File:Windmills_at_Zaanse_Schans,_Zaanstad,_2022.jpg | 2026-11-13 | cropped and resized |
 | JP | Japan | Mount Fuji at sunset across Lake Kawaguchi | Romain Guy from San Francisco, USA | CC0 | https://commons.wikimedia.org/wiki/File:Mount_Fuji_at_sunset,_March_2025.jpg | 2026-11-13 | cropped and resized |
 | AE | United Arab Emirates | Dubai skyline at sunset, seen from Festival City | Lehtm25 | Public domain | https://commons.wikimedia.org/wiki/File:Dubai_skyline_in_the_evening.jpg | 2026-11-13 | cropped and resized |
+| AS | American Samoa | Afono Village and coastline | Tavita Togia / National Park Service | Public domain | https://commons.wikimedia.org/wiki/File:Afono_Village_NPS.jpg | 2026-11-14 | cropped, resized and recompressed |
+| AQ | Antarctica | Mount Murphy | NASA / Kathryn Hansen | Public domain | https://commons.wikimedia.org/wiki/File:Mt_Murphy,_Antarctica.jpg | 2026-11-14 | cropped and resized |
+| AM | Armenia | Cascade of Yerevan | Benoît Prieur | CC0 | https://commons.wikimedia.org/wiki/File:Cascade_of_Yerevan.JPG | 2026-11-14 | cropped and resized |
+| BS | Bahamas | Government House, Nassau | Crm18 | Public domain | https://commons.wikimedia.org/wiki/File:Bahamas_Government_House.jpg | 2026-11-14 | cropped and resized |
+| BT | Bhutan | Bhutan mountain landscape | Mussi Katz | CC0 | https://commons.wikimedia.org/wiki/File:Bhutan_Landscape.jpg | 2026-11-14 | cropped and resized |
+| KH | Cambodia | Thommanon temple, Angkor | Gary Todd | CC0 | https://commons.wikimedia.org/wiki/File:Thommanon,_Ancient_Khmer_Temple.jpg | 2026-11-14 | cropped and resized |
+| GE | Georgia | Narikala Fortress and Old Tbilisi at dusk | LeontinaVarlamonva | CC0 | https://commons.wikimedia.org/wiki/File:Fortress_and_Old_Town_of_Tbilisi_at_dusk,_Tbilisi,_Georgia.jpg | 2026-11-14 | cropped and resized |
+| GL | Greenland | Isunngua highlands landscape | Algkalv | Public domain | https://commons.wikimedia.org/wiki/File:Isunngua-highlands-landscape-greenland.jpg | 2026-11-14 | cropped and resized |
+| GU | Guam | Tanguisson Beach Park | Daderot | CC0 | https://commons.wikimedia.org/wiki/File:Tanguisson_Beach_Park,_Guam_-_DSC01129.JPG | 2026-11-14 | cropped and resized |
+| GW | Guinea-Bissau | Bissau cityscape | Aboubacarkhoraa | CC0 | https://commons.wikimedia.org/wiki/File:Vue_du_ciel_de_Bissau.jpg | 2026-11-14 | cropped and resized |
+| HK | Hong Kong | Hong Kong skyline and waterfront | Mustang Joe | CC0 | https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline1.jpg | 2026-11-14 | cropped and resized |
 
-Each country also has a 4:5 tall crop (<iso2>-tall.jpg) of the same source image, cropped and resized. (MX and IT tall crops are still pending.)
+Each country also has a 4:5 tall crop (<iso2>-tall.jpg) of the same source image, cropped and resized.
