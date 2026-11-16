@@ -665,5 +665,29 @@
     "photos": [],
     "sources": [],
     "dropped": []
+  },
+  {
+    "airport": "YYC",
+    "provider": "American Express",
+    "name": "Aspire Amex Lounge — YYC Domestic",
+    "photos": [
+      "amex/yyc/aspire-amex-lounge-yyc-domestic-1.jpg"
+    ],
+    "sources": [
+      "https://www.americanexpress.com/content/dam/amex/en-us/newsroom/images/Canada_Lounge_Expansion.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YUL",
+    "provider": "American Express",
+    "name": "Aspire Amex Lounge — YUL Transborder (Coming Soon)",
+    "photos": [
+      "amex/yul/aspire-amex-lounge-yul-transborder-coming-soon-1.jpg"
+    ],
+    "sources": [
+      "https://www.americanexpress.com/content/dam/amex/en-us/newsroom/images/Canada_Lounge_Expansion.jpg"
+    ],
+    "dropped": []
   }
 ]
