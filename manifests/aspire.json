@@ -1,0 +1,16 @@
+[
+  {
+    "airport": "ONT",
+    "provider": "Priority Pass",
+    "name": "Aspire Executive Lounge Terminal 2",
+    "photos": [
+      "aspire/ont/aspire-executive-lounge-terminal-2-ont-1.jpg",
+      "aspire/ont/aspire-executive-lounge-terminal-2-ont-2.jpg",
+      "aspire/ont/aspire-executive-lounge-terminal-2-ont-3.jpg"
+    ],
+    "sources": [
+      "Supplied by the StackJet owner (seating area, bar, reception); not an official operator photo"
+    ],
+    "dropped": []
+  }
+]
