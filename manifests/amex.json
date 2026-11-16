@@ -62,10 +62,10 @@
     "provider": "American Express",
     "name": "The Centurion Lounge — BOS (Coming Soon)",
     "photos": [
-      "amex/arn/american-express-lounge-by-pontus-frithiof-arn-1.jpg"
+      "amex/bos/the-centurion-lounge-bos-coming-soon-1.jpg"
     ],
     "sources": [
-      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Vertical_fda9c9ba99.jpg"
+      "https://www.americanexpress.com/content/dam/amex/en-us/newsroom/images/BOSRenderin.jpeg"
     ],
     "dropped": []
   },
@@ -77,13 +77,15 @@
       "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-1.jpg",
       "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-2.jpg",
       "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-3.jpg",
-      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-4.jpg"
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-4.jpg",
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-5.jpg"
     ],
     "sources": [
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Member_Services_225e4b8137.jpg",
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Main_Lounge_4537e62eb6.jpg",
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Food_Beverage_Bar_976b34dcf4.jpg",
-      "https://www.aexp-static.com/s3/loungmtir-e3-cms/enjoy_f2b4471ddf.jpg?updated_at=2022-10-16T13:36:02.833Z"
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/enjoy_f2b4471ddf.jpg?updated_at=2022-10-16T13:36:02.833Z",
+      "https://www.americanexpress.com/content/dam/amex/en-us/newsroom/images/AMEXCLT_EntryRendering.jpg"
     ],
     "dropped": []
   },
@@ -170,14 +172,16 @@
       "amex/dfw/the-centurion-lounge-dfw-2.jpg",
       "amex/dfw/the-centurion-lounge-dfw-3.jpg",
       "amex/dfw/the-centurion-lounge-dfw-4.jpg",
-      "amex/atl/the-centurion-lounge-atl-6.jpg"
+      "amex/atl/the-centurion-lounge-atl-6.jpg",
+      "amex/dfw/the-centurion-lounge-dfw-5.jpg"
     ],
     "sources": [
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Cropped_0000_Reception_b372e3f7a3.jpg",
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Cropped_0002_Main_Lounge_9ad06b49b7.jpg",
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Cropped_0001_Bar_b51542e44b.jpg",
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/Zahav1_8861f675f7.jpg",
-      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg",
+      "https://www.americanexpress.com/content/dam/amex/en-us/newsroom/images/DFWExpansionRendering.jpg"
     ],
     "dropped": [
       {
