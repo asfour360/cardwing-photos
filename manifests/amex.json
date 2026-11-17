@@ -4,9 +4,17 @@
     "provider": "American Express",
     "name": "The Centurion Lounge — AMS",
     "photos": [
+      "amex/ams/the-centurion-lounge-ams-2.jpg",
+      "amex/ams/the-centurion-lounge-ams-3.jpg",
+      "amex/ams/the-centurion-lounge-ams-4.jpg",
+      "amex/ams/the-centurion-lounge-ams-5.jpg",
       "amex/ams/the-centurion-lounge-ams-1.jpg"
     ],
     "sources": [
+      "https://www.aexp-static.com/loungebuddy/image/upload/c_fit,h_2000,w_2000/1789493973501-0-ofswx3ajw.jpg",
+      "https://www.aexp-static.com/loungebuddy/image/upload/c_fit,h_2000,w_2000/1789494019819-0-vnuqbhpcp.jpg",
+      "https://www.aexp-static.com/loungebuddy/image/upload/c_fit,h_2000,w_2000/1789494005325-0-9j7pp0e3t.jpg",
+      "https://www.aexp-static.com/loungebuddy/image/upload/c_fit,h_2000,w_2000/1789493987646-0-vpccazhzn.jpg",
       "https://www.aexp-static.com/s3/loungmtir-e3-cms/02_AMEX_Schiphol_AMEX_Schiphol_f2b9748bf5.jpg"
     ],
     "dropped": []
